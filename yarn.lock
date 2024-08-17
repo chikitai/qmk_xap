@@ -3889,7 +3889,7 @@ __metadata:
     lint-staged: ~13.2.1
     pinia: ~2.0.35
     prettier: ~2.8.8
-    quasar: ~2.11.10
+    quasar: ~2.16.6
     sass: 1.62.0
     stylelint: ~15.6.0
     stylelint-config-recommended: ~12.0.0
@@ -3903,10 +3903,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"quasar@npm:~2.11.10":
-  version: 2.11.10
-  resolution: "quasar@npm:2.11.10"
-  checksum: a2fde0a772064f038cca11e25d3c5bbee743617fafa4b239a2bf04515227971363b8e4bc951fccccebeb0454dfcacdbf2937168ad2dcd910411c0615f5f42886
+"quasar@npm:~2.16.6":
+  version: 2.16.9
+  resolution: "quasar@npm:2.16.9"
+  checksum: acf451915377c448e4d43400e7ad098abb24ffb40f28aaaf6ac4f76293c51ca4ab851b0954c4f15373959a23d89adc2aaabe5b3aaa3ecee827f88b5fd62debb9
   languageName: node
   linkType: hard
 
@@ -4674,7 +4674,7 @@ __metadata:
 
 "typescript@patch:typescript@~5.0.4#~builtin<compat/typescript>":
   version: 5.0.4
-  resolution: "typescript@patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=a1c5e5"
+  resolution: "typescript@patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
