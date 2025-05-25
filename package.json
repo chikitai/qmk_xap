@@ -27,7 +27,7 @@
         "@quasar/extras": "~1.15.2",
         "@radial-color-picker/vue-color-picker": "~5.0.1",
         "@tauri-apps/api": "~1.2.0",
-        "@vitejs/plugin-vue-jsx": "~3.0.1",
+        "@vitejs/plugin-vue-jsx": "~4.2.0",
         "@vueuse/core": "~10.1.0",
         "colord": "~2.9.3",
         "pinia": "~2.0.35",
